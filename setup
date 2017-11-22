@@ -1,2 +1,3 @@
+#!/bin/bash
 ln -s ~/settings/aliases .aliases
 ln -s ~/settings/aliases .vimrc
