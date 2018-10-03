@@ -2,3 +2,4 @@
 ln -sf ~/settings/bashprompt ~/.bashprompt
 ln -sf ~/settings/aliases ~/.aliases
 ln -sf ~/settings/vimrc ~/.vimrc
+ln -sf ~/settings/bin ~/bin

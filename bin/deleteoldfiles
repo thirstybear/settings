@@ -1,0 +1,4 @@
+#!/bin/bash
+find ~/tmp -depth -mindepth 1 -mtime +7 -exec rm -rf {} \;
+find ~/Downloads -depth -mindepth 1 -mtime +30 -exec rm -rf {} \;
+
