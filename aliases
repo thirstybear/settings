@@ -12,5 +12,4 @@ alias docker-gc='docker run --rm -v /var/run/docker.sock:/var/run/docker.sock sp
 alias safari="open -a safari"
 alias gw=./gradlew
 
-alias networktv='cd ~/dev/clients/azure'
 alias projects='cd ~/dev/projects'
