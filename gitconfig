@@ -12,3 +12,5 @@
 	trustExitCode = true
 [remote "origin"]
 	prune = true
+[commit]
+	template = /Users/chris/.stCommitMsg
