@@ -3,6 +3,7 @@ ln -sf ~/settings/bashprompt ~/.bashprompt
 ln -sf ~/settings/aliases ~/.aliases
 ln -sf ~/settings/vimrc ~/.vimrc
 ln -sf ~/settings/bin ~/bin
-ln ~/settings/gitconfig ~/.gitconfig
+ln -sf ~/settings/gitconfig ~/.gitconfig
+ln -s ~/settings/tmux.conf ~/.tmux.conf
 
 ln -sf ~/settings/launchagents/uk.co.thirstybear.deleteoldfiles.plist ~/Library/LaunchAgents/
